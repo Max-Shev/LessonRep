@@ -3,3 +3,7 @@
 ################################################################################
 
 *.suo
+/ConsoleApp/.vs/ConsoleApp/v16/Server/sqlite3
+/ConsoleApp/ConsoleApp/bin/Debug/netcoreapp2.2
+/ConsoleApp/ConsoleApp/obj
+/.vs
